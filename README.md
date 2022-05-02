@@ -1,7 +1,3 @@
-# Telegram-Adwaita-Dark-theme
-
----
-
 # Telegram 🤝 GTK Color palette
 
 Please note that this was just created and is now being in development. 
