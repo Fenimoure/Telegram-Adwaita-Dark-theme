@@ -1,4 +1,4 @@
-# Telegram 🤝 GTK Color palette
+# Telegram 🤝 GTK3 Color palette
 
 Please note that this was just created and is now being in development. 
 
@@ -8,11 +8,10 @@ If you have any ideas, or you want to help us creating this, you are welcome! I 
 
 There is also a different ["libadwaita"](https://t.me/addtheme/libadwaita) Telegram theme, but I think it looks worse than this one.
 
-![Знімок з 2022-05-02 13-01-59](https://user-images.githubusercontent.com/68148186/166219182-78daf163-ee1d-434e-9a60-6a4d870d0ace.png)
+![зображення](https://user-images.githubusercontent.com/68148186/166427537-15b8ac16-23a0-494a-87f6-c893911481a2.png)
 
 
 ---
 
 # ⚠️ Some known problems:
-- Text in badges of the folders in th Sidebar is unreadable due to the front text being almost the same color as the badge itself
-- .svg icons in the sidebar are not the same color as the GNOME's ones
+-Incoming messages' background is very similar to the message area background
