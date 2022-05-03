@@ -1,4 +1,4 @@
-# Telegram 🤝 GTK3 Color palette
+# Telegram 🤝 GTK4 Color palette (not even in dev rn)
 
 Please note that this was just created and is now being in development. 
 
