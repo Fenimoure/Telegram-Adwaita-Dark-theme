@@ -7,7 +7,7 @@ This is basically what we do here. If you are eager to using only the official T
 If you have any ideas, or you want to help us creating this, you are welcome! 
 
 
-![Знімок з 2022-05-06 11-13-39](https://user-images.githubusercontent.com/68148186/167093739-33833586-4864-410d-858c-a317c2cf92da.png)
+![Знімок з 2022-05-07 18-45-34](https://user-images.githubusercontent.com/68148186/167261699-f8b8eb84-3866-4513-a533-a25eb9f742d6.png)
 
 
 
