@@ -1,6 +1,9 @@
 # Telegram 🤝 GTK4 Color palette
 
-Not in development right now - waiting for Fedora 36 release to begin. You can check out [our theme for Gnome 41.5 and older](https://github.com/Fenimoure/Telegram-Adwaita-Dark-theme/tree/Gnome-41.5-and-older) instead!
+Yay! Fedora 36 released, my PC upgraded! Developing the theme!
+
+![зображення](https://user-images.githubusercontent.com/68148186/167831527-f26e9706-4fb7-497c-b635-12f4762b13f4.png)
+
 
 ---
 
