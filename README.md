@@ -2,19 +2,19 @@
 
 Yay! Fedora 36 released, my PC upgraded! Developing the theme!
 
-![зображення](https://user-images.githubusercontent.com/68148186/167831527-f26e9706-4fb7-497c-b635-12f4762b13f4.png)
-
+![зображення](https://user-images.githubusercontent.com/68148186/167836933-3f7eb9a4-32be-4830-b8bc-a5949809e9ee.png)
 
 ---
 
 # 🛠 Tools
 
-- [GNOME color picker extension](https://extensions.gnome.org/extension/3396/color-picker/)
+- [Modern GNOME color palette](https://gnome.pages.gitlab.gnome.org/libadwaita/doc/1-latest/named-colors.html#window-colors)
 
 ---
 
 # ⚠️ Some known problems:
-- No theme no problems, heh?🤔
+
+- No known problems
 
 ---
 
