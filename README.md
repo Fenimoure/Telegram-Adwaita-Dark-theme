@@ -6,7 +6,7 @@ Yay! Fedora 36 released, my PC upgraded! Developing the theme!
 
 - [Telegram Group](https://t.me/adwaita_dark)
 
-![зображення](https://user-images.githubusercontent.com/68148186/167836933-3f7eb9a4-32be-4830-b8bc-a5949809e9ee.png)
+![image](https://user-images.githubusercontent.com/68148186/168563404-37fd7c44-b0cf-4d10-832e-75a6972c1d3d.png)
 
 ---
 
